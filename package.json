@@ -1,0 +1,17 @@
+{
+  "name": "pgo-bot",
+  "version": "1.0.0",
+  "description": "Manages the leaderboard on /r/PictureGameOlympiad",
+  "main": "bot.js",
+  "scripts": {
+    "test": "!update"
+  },
+  "author": "i_luke_tirtles",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2",
+    "snoostorm": "^1.3.0",
+    "snoowrap": "^1.21.0"
+  }
+}
